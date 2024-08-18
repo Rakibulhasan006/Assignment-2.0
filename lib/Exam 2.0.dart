@@ -19,15 +19,15 @@ class MyApp extends StatelessWidget {
               Text(
                 'Flutter Text Styling',
                 style: TextStyle(
-                  fontSize: 24,
+                  fontSize: 26,
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              SizedBox(height: 10),
+              SizedBox(height: 12),
               Text(
-                'Experiment with text styles',
+                'Experiment With Text Styles',
                 style: TextStyle(
-                  fontSize: 18,
+                  fontSize: 20,
                   fontStyle: FontStyle.italic,
                 ),
               ),
